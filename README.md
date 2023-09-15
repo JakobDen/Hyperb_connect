@@ -9,7 +9,7 @@
 ### Code goes by YSDA's RL course(https://github.com/yandexdataschool/Practical_RL)
 
 ![ezgif-2-b70e3557bb](https://github.com/JakobDen/RLWandering/assets/54845271/5c7e6f19-319c-480f-be60-9cc0c7ede4a6)
-Speed had grown after adding priorotized ER (empirically)
+Result after adding priorotized ER(for hidqn2)
 ![__results___24_1](https://github.com/JakobDen/RLWandering/assets/54845271/f497afc1-aed3-464f-adca-d4ec7a706ff7)
 
 
